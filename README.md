@@ -18,3 +18,5 @@ The results of this update were achieved: new completed material was added to my
 <img src= "https://github.com/Hannybiggs/Portfolio2/blob/main/Images/screenshot1.png?raw=true">
 
 <img src= "https://github.com/Hannybiggs/Portfolio2/blob/main/Images/screenshot2.png?raw=true">
+
+[Link to Updated Portfolio](https://hannybiggs.github.io/Portfolio2/)
