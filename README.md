@@ -15,6 +15,6 @@ The original page was created from scratch and employs simple HTML and CSS prope
 The results of this update were achieved: new completed material was added to my portfolio. In the future I would like to consider adding more interesting interactive elements to the page and have more diverse styling.
 
 
-<img src= "https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage1.png?raw=true">
+<img src= "https://github.com/Hannybiggs/Portfolio2/blob/main/Images/screenshot1.png?raw=true">
 
-<img src= "https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage2.png?raw=true">
+<img src= "https://github.com/Hannybiggs/Portfolio2/blob/main/Images/screenshot2.png?raw=true">
